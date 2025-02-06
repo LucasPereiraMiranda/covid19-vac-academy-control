@@ -31,7 +31,7 @@
 @endsection
 
 
-<!-- <form name="frmDelete"
+<form name="frmDelete"
                       action="{{ route('registros.destroy', $registro->id)}}"
                       method="post"
                       style="display:inline;"
@@ -41,4 +41,4 @@
 
                       <input type="submit" value="Excluir">
 
-                    </form> -->
+                    </form>
